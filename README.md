@@ -1,7 +1,7 @@
 # European-Port-Emission-Estimation-A-Simple-LCA-approach
 
 ## Overview
-In this project, I conducted a simplified Life Cycle Assessment (LCA) focusing on emissions from container ships during maneuvering and hotelling phases in a European port. Maneuvering refers to the movement of ships within the port area, such as entering, docking, and leaving the berth, while hotelling refers to the time ships spend docked at the port while running auxiliary engines to maintain onboard operations.
+In this project, I conducted a simplified Life Cycle Assessment (LCA) focusing on emissions from container ships during maneuvering and hotelling phases in European ports. Maneuvering refers to the movement of ships within the port area, such as entering, docking, and leaving the berth, while hotelling refers to the time ships spend docked at the port while running auxiliary engines to maintain onboard operations.
 Using emission factors and methodology from the EMEP 2023 Guidebook, I calculated the CO₂ emissions generated during these phases. Additionally, I assessed the potential environmental impact of switching from onboard auxiliary engines to shore power (cold ironing) during hotelling. The analysis revealed a significant percentage decrease in CO₂ emissions with the use of shore power, underlining its effectiveness in reducing the carbon footprint of port activities.
 
 ## Steps Taken
